@@ -2,8 +2,9 @@
 export interface Product {
   id: string;
   name: string;
+  description: string;
   price: number;
-  isAvailable: boolean;
+  available: boolean;
   category: string;
   imageUrl: string;
 }
