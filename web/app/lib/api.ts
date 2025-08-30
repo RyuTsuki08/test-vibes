@@ -1,6 +1,6 @@
 import { Product } from '../../../shared/types';
 
-const API_BASE_URL = 'http://localhost:4000/api'; // Replace with your API URL
+const API_BASE_URL = 'http://localhost:3001/api'; // Replace with your API URL
 
 export const fetchProducts = async (
   search?: string,
