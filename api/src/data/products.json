@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta básica",
+    "description": "Camiseta de algodón 100%, cómoda y ligera.",
+    "price": 15.99,
+    "available": true,
+    "imageUrl": "/images/camiseta-basica.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Pantalones vaqueros",
+    "description": "Pantalones vaqueros clásicos de corte recto.",
+    "price": 39.99,
+    "available": true,
+    "imageUrl": "/images/pantalones-vaqueros.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Chaqueta impermeable",
+    "description": "Chaqueta resistente al agua, ideal para lluvia.",
+    "price": 59.99,
+    "available": false,
+    "imageUrl": "/images/chaqueta-impermeable.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Zapatillas deportivas",
+    "description": "Zapatillas cómodas para correr y entrenar.",
+    "price": 49.99,
+    "available": true,
+    "imageUrl": "/images/zapatillas-deportivas.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Gorra de béisbol",
+    "description": "Gorra ajustable con logo bordado.",
+    "price": 12.5,
+    "available": false,
+    "imageUrl": "/images/gorra-beisbol.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Bufanda de lana",
+    "description": "Bufanda cálida y suave para invierno.",
+    "price": 22.0,
+    "available": true,
+    "imageUrl": "/images/bufanda-lana.jpg"
+  }
+]
