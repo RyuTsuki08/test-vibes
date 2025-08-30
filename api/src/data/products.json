@@ -5,7 +5,7 @@
     "description": "Camiseta de algodón 100%, cómoda y ligera.",
     "price": 15.99,
     "available": true,
-    "imageUrl": "/images/camiseta-basica.jpg"
+    "imageUrl": "https://i.pinimg.com/1200x/f9/2d/00/f92d00a8afcd7c23fa58a8d9f17bbf1d.jpg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "description": "Pantalones vaqueros clásicos de corte recto.",
     "price": 39.99,
     "available": true,
-    "imageUrl": "/images/pantalones-vaqueros.jpg"
+    "imageUrl": "https://i.pinimg.com/736x/40/79/7d/40797d277d5322105e495b858aad4a93.jpg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "description": "Chaqueta resistente al agua, ideal para lluvia.",
     "price": 59.99,
     "available": false,
-    "imageUrl": "/images/chaqueta-impermeable.jpg"
+    "imageUrl": "https://i.pinimg.com/1200x/2d/78/94/2d78943539acab69eab7303e8a109389.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "description": "Zapatillas cómodas para correr y entrenar.",
     "price": 49.99,
     "available": true,
-    "imageUrl": "/images/zapatillas-deportivas.jpg"
+    "imageUrl": "https://i.pinimg.com/736x/0b/bf/cd/0bbfcdf036a7787b551ae85f31a35606.jpg"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "description": "Gorra ajustable con logo bordado.",
     "price": 12.5,
     "available": false,
-    "imageUrl": "/images/gorra-beisbol.jpg"
+    "imageUrl": "https://i.pinimg.com/736x/0e/81/7e/0e817edc608d41a2c867609dcee6f760.jpg"
   },
   {
     "id": "6",
@@ -45,6 +45,6 @@
     "description": "Bufanda cálida y suave para invierno.",
     "price": 22.0,
     "available": true,
-    "imageUrl": "/images/bufanda-lana.jpg"
+    "imageUrl": "https://i.pinimg.com/736x/fe/d6/2c/fed62c30de077517e367ec3bea83750d.jpg"
   }
 ]
